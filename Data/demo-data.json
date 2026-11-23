@@ -1,0 +1,1169 @@
+{
+  "Students": [
+    {
+      "Id": 1,
+      "FirstName": "Анна",
+      "LastName": "Петрова",
+      "ClassId": 1,
+      "Number": 1,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 2,
+      "FirstName": "Виктор",
+      "LastName": "Димитров",
+      "ClassId": 1,
+      "Number": 2,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 3,
+      "FirstName": "Мария",
+      "LastName": "Стоянова",
+      "ClassId": 1,
+      "Number": 3,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 4,
+      "FirstName": "Никола",
+      "LastName": "Иванов",
+      "ClassId": 1,
+      "Number": 4,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 5,
+      "FirstName": "Елена",
+      "LastName": "Георгиева",
+      "ClassId": 1,
+      "Number": 5,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 6,
+      "FirstName": "Даниел",
+      "LastName": "Колев",
+      "ClassId": 2,
+      "Number": 1,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 7,
+      "FirstName": "София",
+      "LastName": "Ангелова",
+      "ClassId": 2,
+      "Number": 2,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 8,
+      "FirstName": "Александър",
+      "LastName": "Тодоров",
+      "ClassId": 2,
+      "Number": 3,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 9,
+      "FirstName": "Кристина",
+      "LastName": "Николова",
+      "ClassId": 2,
+      "Number": 4,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 10,
+      "FirstName": "Мартин",
+      "LastName": "Павлов",
+      "ClassId": 2,
+      "Number": 5,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 11,
+      "FirstName": "Рая",
+      "LastName": "Василева",
+      "ClassId": 3,
+      "Number": 1,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 12,
+      "FirstName": "Борис",
+      "LastName": "Стефанов",
+      "ClassId": 3,
+      "Number": 2,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 13,
+      "FirstName": "Ива",
+      "LastName": "Христова",
+      "ClassId": 3,
+      "Number": 3,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 14,
+      "FirstName": "Калоян",
+      "LastName": "Маринов",
+      "ClassId": 3,
+      "Number": 4,
+      "JoinedAt": "2026-09-15T08:00:00"
+    },
+    {
+      "Id": 15,
+      "FirstName": "Теодора",
+      "LastName": "Попова",
+      "ClassId": 3,
+      "Number": 5,
+      "JoinedAt": "2026-09-15T08:00:00"
+    }
+  ],
+  "Grades": [
+    {
+      "Id": 1,
+      "StudentId": 1,
+      "SubjectId": 2,
+      "Value": 6,
+      "AssessmentType": "Текуща",
+      "Date": "2026-09-27T09:00:00"
+    },
+    {
+      "Id": 2,
+      "StudentId": 1,
+      "SubjectId": 4,
+      "Value": 6,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-04T10:00:00"
+    },
+    {
+      "Id": 3,
+      "StudentId": 1,
+      "SubjectId": 3,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-11T11:00:00"
+    },
+    {
+      "Id": 4,
+      "StudentId": 1,
+      "SubjectId": 1,
+      "Value": 6,
+      "AssessmentType": "Устна",
+      "Date": "2026-10-18T12:00:00"
+    },
+    {
+      "Id": 5,
+      "StudentId": 1,
+      "SubjectId": 5,
+      "Value": 6,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-25T13:00:00"
+    },
+    {
+      "Id": 6,
+      "StudentId": 1,
+      "SubjectId": 6,
+      "Value": 6,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-01T09:00:00"
+    },
+    {
+      "Id": 7,
+      "StudentId": 1,
+      "SubjectId": 7,
+      "Value": 6,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-08T10:00:00"
+    },
+    {
+      "Id": 8,
+      "StudentId": 1,
+      "SubjectId": 8,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-15T11:00:00"
+    },
+    {
+      "Id": 9,
+      "StudentId": 1,
+      "SubjectId": 2,
+      "Value": 6,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-14T10:08:00"
+    },
+    {
+      "Id": 10,
+      "StudentId": 2,
+      "SubjectId": 2,
+      "Value": 6,
+      "AssessmentType": "Текуща",
+      "Date": "2026-09-29T09:00:00"
+    },
+    {
+      "Id": 11,
+      "StudentId": 2,
+      "SubjectId": 4,
+      "Value": 6,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-06T10:00:00"
+    },
+    {
+      "Id": 12,
+      "StudentId": 2,
+      "SubjectId": 2,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-13T11:00:00"
+    },
+    {
+      "Id": 13,
+      "StudentId": 2,
+      "SubjectId": 4,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-10-20T12:00:00"
+    },
+    {
+      "Id": 14,
+      "StudentId": 2,
+      "SubjectId": 2,
+      "Value": 3,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-27T13:00:00"
+    },
+    {
+      "Id": 15,
+      "StudentId": 2,
+      "SubjectId": 4,
+      "Value": 2,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-03T09:00:00"
+    },
+    {
+      "Id": 16,
+      "StudentId": 3,
+      "SubjectId": 2,
+      "Value": 2,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-01T09:00:00"
+    },
+    {
+      "Id": 17,
+      "StudentId": 3,
+      "SubjectId": 4,
+      "Value": 3,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-08T10:00:00"
+    },
+    {
+      "Id": 18,
+      "StudentId": 3,
+      "SubjectId": 2,
+      "Value": 3,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-15T11:00:00"
+    },
+    {
+      "Id": 19,
+      "StudentId": 3,
+      "SubjectId": 4,
+      "Value": 2,
+      "AssessmentType": "Устна",
+      "Date": "2026-10-22T12:00:00"
+    },
+    {
+      "Id": 20,
+      "StudentId": 3,
+      "SubjectId": 2,
+      "Value": 3,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-29T13:00:00"
+    },
+    {
+      "Id": 21,
+      "StudentId": 3,
+      "SubjectId": 4,
+      "Value": 2,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-05T09:00:00"
+    },
+    {
+      "Id": 22,
+      "StudentId": 4,
+      "SubjectId": 2,
+      "Value": 3,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-03T09:00:00"
+    },
+    {
+      "Id": 23,
+      "StudentId": 4,
+      "SubjectId": 4,
+      "Value": 3,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-10T10:00:00"
+    },
+    {
+      "Id": 24,
+      "StudentId": 4,
+      "SubjectId": 2,
+      "Value": 4,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-17T11:00:00"
+    },
+    {
+      "Id": 25,
+      "StudentId": 4,
+      "SubjectId": 4,
+      "Value": 4,
+      "AssessmentType": "Устна",
+      "Date": "2026-10-24T12:00:00"
+    },
+    {
+      "Id": 26,
+      "StudentId": 4,
+      "SubjectId": 2,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-31T13:00:00"
+    },
+    {
+      "Id": 27,
+      "StudentId": 4,
+      "SubjectId": 4,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-07T09:00:00"
+    },
+    {
+      "Id": 28,
+      "StudentId": 5,
+      "SubjectId": 2,
+      "Value": 4,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-05T09:00:00"
+    },
+    {
+      "Id": 29,
+      "StudentId": 5,
+      "SubjectId": 4,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-12T10:00:00"
+    },
+    {
+      "Id": 30,
+      "StudentId": 5,
+      "SubjectId": 3,
+      "Value": 6,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-19T11:00:00"
+    },
+    {
+      "Id": 31,
+      "StudentId": 5,
+      "SubjectId": 1,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-10-26T12:00:00"
+    },
+    {
+      "Id": 32,
+      "StudentId": 5,
+      "SubjectId": 5,
+      "Value": 4,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-02T13:00:00"
+    },
+    {
+      "Id": 33,
+      "StudentId": 5,
+      "SubjectId": 6,
+      "Value": 6,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-09T09:00:00"
+    },
+    {
+      "Id": 34,
+      "StudentId": 5,
+      "SubjectId": 7,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-16T10:00:00"
+    },
+    {
+      "Id": 35,
+      "StudentId": 5,
+      "SubjectId": 8,
+      "Value": 6,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-14T10:07:00"
+    },
+    {
+      "Id": 36,
+      "StudentId": 5,
+      "SubjectId": 2,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-14T10:08:00"
+    },
+    {
+      "Id": 37,
+      "StudentId": 6,
+      "SubjectId": 2,
+      "Value": 4,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-07T09:00:00"
+    },
+    {
+      "Id": 38,
+      "StudentId": 6,
+      "SubjectId": 4,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-14T10:00:00"
+    },
+    {
+      "Id": 39,
+      "StudentId": 6,
+      "SubjectId": 3,
+      "Value": 4,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-21T11:00:00"
+    },
+    {
+      "Id": 40,
+      "StudentId": 6,
+      "SubjectId": 1,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-10-28T12:00:00"
+    },
+    {
+      "Id": 41,
+      "StudentId": 6,
+      "SubjectId": 5,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-04T13:00:00"
+    },
+    {
+      "Id": 42,
+      "StudentId": 6,
+      "SubjectId": 6,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-11T09:00:00"
+    },
+    {
+      "Id": 43,
+      "StudentId": 6,
+      "SubjectId": 7,
+      "Value": 3,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-18T10:00:00"
+    },
+    {
+      "Id": 44,
+      "StudentId": 6,
+      "SubjectId": 8,
+      "Value": 4,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-14T10:07:00"
+    },
+    {
+      "Id": 45,
+      "StudentId": 7,
+      "SubjectId": 2,
+      "Value": 3,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-09T09:00:00"
+    },
+    {
+      "Id": 46,
+      "StudentId": 7,
+      "SubjectId": 4,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-16T10:00:00"
+    },
+    {
+      "Id": 47,
+      "StudentId": 7,
+      "SubjectId": 3,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-23T11:00:00"
+    },
+    {
+      "Id": 48,
+      "StudentId": 7,
+      "SubjectId": 1,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-10-30T12:00:00"
+    },
+    {
+      "Id": 49,
+      "StudentId": 7,
+      "SubjectId": 5,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-06T13:00:00"
+    },
+    {
+      "Id": 50,
+      "StudentId": 7,
+      "SubjectId": 6,
+      "Value": 4,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-13T09:00:00"
+    },
+    {
+      "Id": 51,
+      "StudentId": 7,
+      "SubjectId": 7,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-14T10:06:00"
+    },
+    {
+      "Id": 52,
+      "StudentId": 8,
+      "SubjectId": 2,
+      "Value": 4,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-11T09:00:00"
+    },
+    {
+      "Id": 53,
+      "StudentId": 8,
+      "SubjectId": 4,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-18T10:00:00"
+    },
+    {
+      "Id": 54,
+      "StudentId": 8,
+      "SubjectId": 3,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-25T11:00:00"
+    },
+    {
+      "Id": 55,
+      "StudentId": 8,
+      "SubjectId": 1,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-01T12:00:00"
+    },
+    {
+      "Id": 56,
+      "StudentId": 8,
+      "SubjectId": 5,
+      "Value": 6,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-08T13:00:00"
+    },
+    {
+      "Id": 57,
+      "StudentId": 8,
+      "SubjectId": 6,
+      "Value": 4,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-15T09:00:00"
+    },
+    {
+      "Id": 58,
+      "StudentId": 8,
+      "SubjectId": 7,
+      "Value": 6,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-14T10:06:00"
+    },
+    {
+      "Id": 59,
+      "StudentId": 9,
+      "SubjectId": 2,
+      "Value": 6,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-13T09:00:00"
+    },
+    {
+      "Id": 60,
+      "StudentId": 9,
+      "SubjectId": 4,
+      "Value": 3,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-20T10:00:00"
+    },
+    {
+      "Id": 61,
+      "StudentId": 9,
+      "SubjectId": 3,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-27T11:00:00"
+    },
+    {
+      "Id": 62,
+      "StudentId": 9,
+      "SubjectId": 1,
+      "Value": 6,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-03T12:00:00"
+    },
+    {
+      "Id": 63,
+      "StudentId": 9,
+      "SubjectId": 5,
+      "Value": 4,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-10T13:00:00"
+    },
+    {
+      "Id": 64,
+      "StudentId": 9,
+      "SubjectId": 6,
+      "Value": 4,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-17T09:00:00"
+    },
+    {
+      "Id": 65,
+      "StudentId": 9,
+      "SubjectId": 7,
+      "Value": 4,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-14T10:06:00"
+    },
+    {
+      "Id": 66,
+      "StudentId": 9,
+      "SubjectId": 8,
+      "Value": 4,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-14T10:07:00"
+    },
+    {
+      "Id": 67,
+      "StudentId": 10,
+      "SubjectId": 2,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-15T09:00:00"
+    },
+    {
+      "Id": 68,
+      "StudentId": 10,
+      "SubjectId": 4,
+      "Value": 6,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-22T10:00:00"
+    },
+    {
+      "Id": 69,
+      "StudentId": 10,
+      "SubjectId": 3,
+      "Value": 6,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-29T11:00:00"
+    },
+    {
+      "Id": 70,
+      "StudentId": 10,
+      "SubjectId": 1,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-05T12:00:00"
+    },
+    {
+      "Id": 71,
+      "StudentId": 10,
+      "SubjectId": 5,
+      "Value": 4,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-12T13:00:00"
+    },
+    {
+      "Id": 72,
+      "StudentId": 10,
+      "SubjectId": 6,
+      "Value": 4,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-14T10:05:00"
+    },
+    {
+      "Id": 73,
+      "StudentId": 10,
+      "SubjectId": 7,
+      "Value": 6,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-14T10:06:00"
+    },
+    {
+      "Id": 74,
+      "StudentId": 10,
+      "SubjectId": 8,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-14T10:07:00"
+    },
+    {
+      "Id": 75,
+      "StudentId": 11,
+      "SubjectId": 2,
+      "Value": 3,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-17T09:00:00"
+    },
+    {
+      "Id": 76,
+      "StudentId": 11,
+      "SubjectId": 4,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-24T10:00:00"
+    },
+    {
+      "Id": 77,
+      "StudentId": 11,
+      "SubjectId": 3,
+      "Value": 4,
+      "AssessmentType": "Проект",
+      "Date": "2026-10-31T11:00:00"
+    },
+    {
+      "Id": 78,
+      "StudentId": 11,
+      "SubjectId": 1,
+      "Value": 6,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-07T12:00:00"
+    },
+    {
+      "Id": 79,
+      "StudentId": 11,
+      "SubjectId": 5,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-14T13:00:00"
+    },
+    {
+      "Id": 80,
+      "StudentId": 11,
+      "SubjectId": 6,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-14T10:05:00"
+    },
+    {
+      "Id": 81,
+      "StudentId": 12,
+      "SubjectId": 2,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-19T09:00:00"
+    },
+    {
+      "Id": 82,
+      "StudentId": 12,
+      "SubjectId": 4,
+      "Value": 3,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-26T10:00:00"
+    },
+    {
+      "Id": 83,
+      "StudentId": 12,
+      "SubjectId": 3,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-02T11:00:00"
+    },
+    {
+      "Id": 84,
+      "StudentId": 12,
+      "SubjectId": 1,
+      "Value": 3,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-09T12:00:00"
+    },
+    {
+      "Id": 85,
+      "StudentId": 12,
+      "SubjectId": 5,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-16T13:00:00"
+    },
+    {
+      "Id": 86,
+      "StudentId": 12,
+      "SubjectId": 6,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-14T10:05:00"
+    },
+    {
+      "Id": 87,
+      "StudentId": 13,
+      "SubjectId": 2,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-21T09:00:00"
+    },
+    {
+      "Id": 88,
+      "StudentId": 13,
+      "SubjectId": 4,
+      "Value": 4,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-28T10:00:00"
+    },
+    {
+      "Id": 89,
+      "StudentId": 13,
+      "SubjectId": 3,
+      "Value": 6,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-04T11:00:00"
+    },
+    {
+      "Id": 90,
+      "StudentId": 13,
+      "SubjectId": 1,
+      "Value": 4,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-11T12:00:00"
+    },
+    {
+      "Id": 91,
+      "StudentId": 13,
+      "SubjectId": 5,
+      "Value": 6,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-18T13:00:00"
+    },
+    {
+      "Id": 92,
+      "StudentId": 13,
+      "SubjectId": 6,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-14T10:05:00"
+    },
+    {
+      "Id": 93,
+      "StudentId": 13,
+      "SubjectId": 7,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-14T10:06:00"
+    },
+    {
+      "Id": 94,
+      "StudentId": 13,
+      "SubjectId": 8,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-14T10:07:00"
+    },
+    {
+      "Id": 95,
+      "StudentId": 14,
+      "SubjectId": 2,
+      "Value": 4,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-23T09:00:00"
+    },
+    {
+      "Id": 96,
+      "StudentId": 14,
+      "SubjectId": 4,
+      "Value": 3,
+      "AssessmentType": "Контролна",
+      "Date": "2026-10-30T10:00:00"
+    },
+    {
+      "Id": 97,
+      "StudentId": 14,
+      "SubjectId": 3,
+      "Value": 4,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-06T11:00:00"
+    },
+    {
+      "Id": 98,
+      "StudentId": 14,
+      "SubjectId": 1,
+      "Value": 4,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-13T12:00:00"
+    },
+    {
+      "Id": 99,
+      "StudentId": 14,
+      "SubjectId": 5,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-14T10:04:00"
+    },
+    {
+      "Id": 100,
+      "StudentId": 14,
+      "SubjectId": 6,
+      "Value": 5,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-14T10:05:00"
+    },
+    {
+      "Id": 101,
+      "StudentId": 14,
+      "SubjectId": 7,
+      "Value": 6,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-14T10:06:00"
+    },
+    {
+      "Id": 102,
+      "StudentId": 14,
+      "SubjectId": 8,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-14T10:07:00"
+    },
+    {
+      "Id": 103,
+      "StudentId": 15,
+      "SubjectId": 2,
+      "Value": 5,
+      "AssessmentType": "Текуща",
+      "Date": "2026-10-25T09:00:00"
+    },
+    {
+      "Id": 104,
+      "StudentId": 15,
+      "SubjectId": 4,
+      "Value": 4,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-01T10:00:00"
+    },
+    {
+      "Id": 105,
+      "StudentId": 15,
+      "SubjectId": 3,
+      "Value": 3,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-08T11:00:00"
+    },
+    {
+      "Id": 106,
+      "StudentId": 15,
+      "SubjectId": 1,
+      "Value": 3,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-15T12:00:00"
+    },
+    {
+      "Id": 107,
+      "StudentId": 15,
+      "SubjectId": 5,
+      "Value": 3,
+      "AssessmentType": "Текуща",
+      "Date": "2026-11-14T10:04:00"
+    },
+    {
+      "Id": 108,
+      "StudentId": 15,
+      "SubjectId": 6,
+      "Value": 4,
+      "AssessmentType": "Контролна",
+      "Date": "2026-11-14T10:05:00"
+    },
+    {
+      "Id": 109,
+      "StudentId": 15,
+      "SubjectId": 7,
+      "Value": 5,
+      "AssessmentType": "Проект",
+      "Date": "2026-11-14T10:06:00"
+    },
+    {
+      "Id": 110,
+      "StudentId": 15,
+      "SubjectId": 8,
+      "Value": 5,
+      "AssessmentType": "Устна",
+      "Date": "2026-11-14T10:07:00"
+    }
+  ],
+  "Absences": [
+    {
+      "Id": 1,
+      "StudentId": 1,
+      "SubjectId": 3,
+      "Date": "2026-10-10T00:00:00",
+      "Hours": 1,
+      "IsExcused": true,
+      "ExcuseReason": "Медицинска бележка"
+    },
+    {
+      "Id": 2,
+      "StudentId": 2,
+      "SubjectId": 4,
+      "Date": "2026-11-05T00:00:00",
+      "Hours": 2,
+      "IsExcused": false,
+      "ExcuseReason": ""
+    },
+    {
+      "Id": 3,
+      "StudentId": 3,
+      "SubjectId": 2,
+      "Date": "2026-10-21T00:00:00",
+      "Hours": 3,
+      "IsExcused": false,
+      "ExcuseReason": ""
+    },
+    {
+      "Id": 4,
+      "StudentId": 3,
+      "SubjectId": 5,
+      "Date": "2026-11-03T00:00:00",
+      "Hours": 2,
+      "IsExcused": false,
+      "ExcuseReason": ""
+    },
+    {
+      "Id": 5,
+      "StudentId": 4,
+      "SubjectId": 1,
+      "Date": "2026-10-06T00:00:00",
+      "Hours": 2,
+      "IsExcused": true,
+      "ExcuseReason": "Медицинска бележка"
+    },
+    {
+      "Id": 6,
+      "StudentId": 5,
+      "SubjectId": 3,
+      "Date": "2026-10-08T00:00:00",
+      "Hours": 1,
+      "IsExcused": true,
+      "ExcuseReason": "Медицинска бележка"
+    },
+    {
+      "Id": 7,
+      "StudentId": 7,
+      "SubjectId": 1,
+      "Date": "2026-11-06T00:00:00",
+      "Hours": 1,
+      "IsExcused": true,
+      "ExcuseReason": "Служебна бележка"
+    },
+    {
+      "Id": 8,
+      "StudentId": 8,
+      "SubjectId": 4,
+      "Date": "2026-10-28T00:00:00",
+      "Hours": 2,
+      "IsExcused": false,
+      "ExcuseReason": ""
+    },
+    {
+      "Id": 9,
+      "StudentId": 10,
+      "SubjectId": 2,
+      "Date": "2026-10-17T00:00:00",
+      "Hours": 1,
+      "IsExcused": true,
+      "ExcuseReason": "Медицинска бележка"
+    },
+    {
+      "Id": 10,
+      "StudentId": 12,
+      "SubjectId": 6,
+      "Date": "2026-11-04T00:00:00",
+      "Hours": 3,
+      "IsExcused": false,
+      "ExcuseReason": ""
+    },
+    {
+      "Id": 11,
+      "StudentId": 13,
+      "SubjectId": 7,
+      "Date": "2026-10-18T00:00:00",
+      "Hours": 1,
+      "IsExcused": true,
+      "ExcuseReason": "Медицинска бележка"
+    },
+    {
+      "Id": 12,
+      "StudentId": 15,
+      "SubjectId": 8,
+      "Date": "2026-11-12T00:00:00",
+      "Hours": 2,
+      "IsExcused": false,
+      "ExcuseReason": ""
+    }
+  ],
+  "Subjects": [
+    {
+      "Id": 1,
+      "Name": "Български език и литература"
+    },
+    {
+      "Id": 2,
+      "Name": "Математика"
+    },
+    {
+      "Id": 3,
+      "Name": "Английски език"
+    },
+    {
+      "Id": 4,
+      "Name": "Програмиране"
+    },
+    {
+      "Id": 5,
+      "Name": "География и икономика"
+    },
+    {
+      "Id": 6,
+      "Name": "История и цивилизации"
+    },
+    {
+      "Id": 7,
+      "Name": "Биология и здравно образование"
+    },
+    {
+      "Id": 8,
+      "Name": "Информационни технологии"
+    }
+  ],
+  "Classes": [
+    {
+      "Id": 1,
+      "Name": "9А"
+    },
+    {
+      "Id": 2,
+      "Name": "10А"
+    },
+    {
+      "Id": 3,
+      "Name": "10Б"
+    }
+  ],
+  "NextStudentId": 16,
+  "NextGradeId": 111,
+  "NextAbsenceId": 13,
+  "NextSubjectId": 9,
+  "NextClassId": 4
+}

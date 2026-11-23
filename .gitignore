@@ -1,0 +1,17 @@
+# Visual Studio / .NET
+.vs/
+.vscode/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
+*.log
+
+# Локално променяща се база и временни файлове (демото е в Data/)
+Data/school-data.json
+Data/*.bak
+Data/*.tmp
+Data/school-data.corrupt-*.json
