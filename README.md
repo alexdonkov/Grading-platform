@@ -151,11 +151,4 @@ EduTrack/
 - [ ] Проверете празните списъци в отделно копие без `Data/demo-data.json` и `Data/school-data.json`.
 - [ ] Направете втори запис, повредете `school-data.json` **само в тестово копие** и проверете резервното копие.
 
-## Качване в съществуващ GitHub repository
 
-1. **Не създавайте нов repository.** Разархивирайте и копирайте съдържанието на папката `EduTrack` в корена на вашето съществуващо хранилище (или в предварително избрана папка в него).
-2. Качете `EduTrack.sln`, `EduTrack.csproj`, `Program.cs`, папките `Models`, `Services`, `UI`, `Tests`, `Data/demo-data.json`, документацията и `.gitignore`.
-3. **Не качвайте** `bin`, `obj`, `.vs`, реалния `Data/school-data.json` или архивите `.bak`.
-4. Направете commit, например **`EduTrack - завършен училищен дневник`**.
-
-За презентационните реплики вижте [`PRESENTATION.md`](PRESENTATION.md), а за обяснението на кода - [`CODE_EXPLANATION.md`](CODE_EXPLANATION.md).
